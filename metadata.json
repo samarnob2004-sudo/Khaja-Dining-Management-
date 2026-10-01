@@ -1,0 +1,6 @@
+{
+  "name": "খান জাহান আলী হল - ডাইনিং ও বাজার ব্যবস্থাপনা",
+  "description": "খান জাহান আলী হলের ডাইনিং ম্যানেজারদের জন্য বাজার হিসাব, মিল বাজেট, ফিস্ট ফান্ড, ইনভেন্টরি ও পিডিএফ রিপোর্ট তৈরির ডিজিটাল ম্যানেজমেন্ট সিস্টেম। Made by S.A.M. Mafiul Alam Arnob - BECM 2K22.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
